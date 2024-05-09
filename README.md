@@ -43,7 +43,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 Special thanks to the original data source on Kaggle and the contributors whose work has been referenced in this project.
 
 **Contact:**
-For any inquiries or feedback, please contact [email@example.com].
+For any inquiries or feedback, please contact [kazi.mahathir.rahman@g.bracu.ac.bd].
 
 **References:**
 - Kaggle Dataset: [FIFA 22 Complete Player Dataset](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset)

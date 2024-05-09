@@ -1,6 +1,6 @@
 # CSE422 Artificial Intelligence Project
  
-**FIFA22 Position Prediction**
+## FIFA22 Position Prediction
 
 **Introduction:**
 In the realm of FIFA22 Position Prediction, the efficacy of machine learning models heavily relies on their training methodologies and underlying algorithms. This repository contains a comprehensive approach to predict player positions within the FIFA 22 game using various machine learning models and techniques.
